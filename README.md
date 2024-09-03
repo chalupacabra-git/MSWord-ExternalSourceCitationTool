@@ -24,9 +24,9 @@
 
 ## How to use the tool
 1. ## Open the tool:
-  In the **Home Tab** of the Ribbon, select the **Open Tool** icon/button to launch the add-in.
+    In the **Home Tab** of the Ribbon, select the **Open Tool** icon/button to launch the add-in.
 
-2. ## Fill out the template:
+3. ## Fill out the template:
     Simply fill out the template and, when ready, click the **Insert Citation** button. The tool will format the content, add punctuation, and create a new line.
 
 ## Troubleshooting
