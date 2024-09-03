@@ -13,20 +13,20 @@
 3. Internet connection
 
 ## How to **sideload** this add-in to your Microsoft Word (aka install manually, not through Microsoft Store)
-1. **Open the Office Add-ins Menu**
+1. **Open the Office Add-ins Menu**:
     In the **Home Tab** of the Ribbon, select the **Add-ins** icon/button to open the dropdown. In the dropdown menu, select **+More Add-ins**
 
-2. **Open the **My Add-ins** menu**
+2. **Open the **My Add-ins** menu**:
     Select **My Add-ins** tab to view a list of your customized Add-ins. In the top right of the window, select **Upload my Add-in**. A file browser will open in a new window.
 
-3. **Upload the External Source Citation Tool manifest file**
+3. **Upload the External Source Citation Tool manifest file**:
     In the file browser, navigate to where you saved and/or unzipped the Add-in folder that you downloaded (C:\Users\[username]\Downloads\enercon-ExternalSourceCitationTool... by default). Locate the **manifest file** in the root directory (C:\Users\[username]\Downloads\enercon-        ExternalSourceCitationTool\manifest.xml by default). Select and open the **manifest file** (named manifest.xml).
 
 ## How to use the tool
-1. ## Open the tool
+1. ## Open the tool:
   In the **Home Tab** of the Ribbon, select the **Open Tool** icon/button to launch the add-in.
 
-2. ## Fill out the template
+2. ## Fill out the template:
     Simply fill out the template and, when ready, click the **Insert Citation** button. The tool will format the content, add punctuation, and create a new line.
 
 ## Troubleshooting
@@ -48,7 +48,6 @@ Copyright (c) 2024 Microsoft Corporation. All rights reserved.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.txt file for details.
-
 
 ## Disclaimer
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
