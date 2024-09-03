@@ -44,6 +44,7 @@ For information on running the add-in on Word on the web, see [Sideload Office A
 
 ## Copyright
 Copyright (c) 2024 Emily Keenan. All rights reserved.
+
 Copyright (c) 2024 Microsoft Corporation. All rights reserved.
 
 ## License
