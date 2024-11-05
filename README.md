@@ -33,7 +33,7 @@
 If you have problems running the add-in, take these steps.
 - Close and restart any open instances of Word.
 
-If you still have problems, send an email to Emily Keenan at ekeenan@enercon.com and include the following information:
+If you still have problems, send an email to Emily Keenan at didomenico.dev@gmail.com and include the following information:
     Windows Version:
     MS Word Version:
     Using the [online MS Word web-app] or [desktop application]? Select one.
