@@ -1,10 +1,11 @@
 {
-  "name": "office-addin-taskpane-js",
+  "name": "office-addin-taskpane",
   "version": "0.0.1",
-  "main": "server.js",
+  "main": "server.mjs",
+  "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/OfficeDev/Office-Addin-TaskPane-JS.git"
+    "url": "git+https://github.com/OfficeDev/Office-Addin-TaskPane-JS.git"
   },
   "license": "MIT",
   "config": {
@@ -30,8 +31,8 @@
   },
   "dependencies": {
     "core-js": "^3.36.0",
-    "regenerator-runtime": "^0.14.1",
-    "express": "^4.17.1"
+    "express": "^4.21.1",
+    "regenerator-runtime": "^0.14.1"
   },
   "devDependencies": {
     "@babel/core": "^7.24.0",
@@ -62,5 +63,12 @@
   "browserslist": [
     "last 2 versions",
     "ie 11"
-  ]
+  ],
+  "description": "*Word add-ins are integrations built by third parties into Word by using [Word JavaScript API](https://learn.microsoft.com/en-us/office/dev/add-ins/reference/overview/word-add-ins-reference-overview) and [Office Platform capabilities](https://learn.microsoft.com/en-us/office/dev/add-ins/overview/office-add-ins).*",
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/OfficeDev/Office-Addin-TaskPane-JS/issues"
+  },
+  "homepage": "https://github.com/OfficeDev/Office-Addin-TaskPane-JS#readme"
 }
