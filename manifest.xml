@@ -10,13 +10,13 @@
   <HighResolutionIconUrl DefaultValue="https://raw.githubusercontent.com/chalupacabra-git/MSWord-ExternalSourceCitationTool/refs/heads/master/assets/icon-64.png"/>
   <SupportUrl DefaultValue="https://github.com/chalupacabra-git/MSWord-ExternalSourceCitationTool"/>
   <AppDomains>
-    <AppDomain>https://github.com/chalupacabra-git/MSWord-ExternalSourceCitationTool</AppDomain>
+    <AppDomain>https://edk-externalsourcecitationtool.azurewebsites.net/</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Document"/>
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://pub-cb5ee5f06c744283bb2e5471ff6cb39c.r2.dev/taskpane.html"/>
+    <SourceLocation DefaultValue="https://edk-externalsourcecitationtool.azurewebsites.net/src/taskpane/taskpane.html"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
   <VersionOverrides xmlns="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="VersionOverridesV1_0">
@@ -68,8 +68,8 @@
       </bt:Images>
       <bt:Urls>
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://go.microsoft.com/fwlink/?LinkId=276812"/>
-        <bt:Url id="Commands.Url" DefaultValue="https://pub-cb5ee5f06c744283bb2e5471ff6cb39c.r2.dev/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://pub-cb5ee5f06c744283bb2e5471ff6cb39c.r2.dev/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://edk-externalsourcecitationtool.azurewebsites.net/src/commands/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://edk-externalsourcecitationtool.azurewebsites.net/src/taskpane/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GetStarted.Title" DefaultValue="Get started with your sample add-in!"/>
