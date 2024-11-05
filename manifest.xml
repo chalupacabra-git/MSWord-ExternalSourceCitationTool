@@ -6,11 +6,11 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="External Source Citation Tool"/>
   <Description DefaultValue="A tool for citing external sources according to ENERCON best practices."/>
-  <IconUrl DefaultValue="https://github.com/chalupacabra-git/enercon-ExternalSource/blob/70146ea14e01dd1b0b0dce22bc50aa2019bcf9f3/assets/icon-32.png"/>
-  <HighResolutionIconUrl DefaultValue="https://github.com/chalupacabra-git/enercon-ExternalSource/blob/master/assets/icon-64.png"/>
+  <IconUrl DefaultValue="https://raw.githubusercontent.com/chalupacabra-git/MSWord-ExternalSourceCitationTool/refs/heads/master/assets/icon-32.png"/>
+  <HighResolutionIconUrl DefaultValue="https://raw.githubusercontent.com/chalupacabra-git/MSWord-ExternalSourceCitationTool/refs/heads/master/assets/icon-64.png"/>
   <SupportUrl DefaultValue="https://github.com/chalupacabra-git/MSWord-ExternalSourceCitationTool"/>
   <AppDomains>
-    <AppDomain>https://github.com/chalupacabra-git/MSWord-ExternalSourceCitationTool/tree/master</AppDomain>
+    <AppDomain>https://github.com/chalupacabra-git/MSWord-ExternalSourceCitationTool</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Document"/>
