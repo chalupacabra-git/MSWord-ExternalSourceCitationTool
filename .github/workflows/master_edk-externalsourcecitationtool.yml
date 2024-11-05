@@ -53,4 +53,4 @@ jobs:
           app-name: 'EDK-ExternalSourceCitationTool'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2FF84DD49F7B436388B050EC9913997B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E57F7DBD715C47999FB8D8BEADBC275E }}
