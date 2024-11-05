@@ -1,6 +1,7 @@
 {
   "name": "office-addin-taskpane-js",
   "version": "0.0.1",
+  "main": "server.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/OfficeDev/Office-Addin-TaskPane-JS.git"
@@ -20,7 +21,7 @@
     "prettier": "office-addin-lint prettier",
     "signin": "office-addin-dev-settings m365-account login",
     "signout": "office-addin-dev-settings m365-account logout",
-    "start": "office-addin-debugging start manifest.xml",
+    "start": "node server.js",
     "start:desktop": "office-addin-debugging start manifest.xml desktop",
     "start:web": "office-addin-debugging start manifest.xml web",
     "stop": "office-addin-debugging stop manifest.xml",
@@ -29,7 +30,8 @@
   },
   "dependencies": {
     "core-js": "^3.36.0",
-    "regenerator-runtime": "^0.14.1"
+    "regenerator-runtime": "^0.14.1",
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "@babel/core": "^7.24.0",
