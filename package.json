@@ -1,11 +1,11 @@
 {
   "name": "office-addin-taskpane",
   "version": "0.0.1",
-  "main": "server.mjs",
+  "main": "server.js",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OfficeDev/Office-Addin-TaskPane-JS.git"
+    "url": "git+https://github.com/chalupacabra-git/MSWord-ExternalSourceCitationTool.git"
   },
   "license": "MIT",
   "config": {
@@ -64,11 +64,11 @@
     "last 2 versions",
     "ie 11"
   ],
-  "description": "*Word add-ins are integrations built by third parties into Word by using [Word JavaScript API](https://learn.microsoft.com/en-us/office/dev/add-ins/reference/overview/word-add-ins-reference-overview) and [Office Platform capabilities](https://learn.microsoft.com/en-us/office/dev/add-ins/overview/office-add-ins).*",
+  "description": "Automatically formats and validates citations from external sources.*",
   "keywords": [],
-  "author": "",
+  "author": "Emily Keenan",
   "bugs": {
-    "url": "https://github.com/OfficeDev/Office-Addin-TaskPane-JS/issues"
+    "url": "https://github.com/chalupacabra-git/MSWord-ExternalSourceCitationTool"
   },
-  "homepage": "https://github.com/OfficeDev/Office-Addin-TaskPane-JS#readme"
+  "homepage": "https://github.com/chalupacabra-git/MSWord-ExternalSourceCitationTool#readme"
 }
