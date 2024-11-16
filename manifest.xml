@@ -10,13 +10,13 @@
   <HighResolutionIconUrl DefaultValue="https://raw.githubusercontent.com/chalupacabra-git/MSWord-ExternalSourceCitationTool/refs/heads/master/assets/icon-64.png"/>
   <SupportUrl DefaultValue="https://github.com/chalupacabra-git/MSWord-ExternalSourceCitationTool"/>
   <AppDomains>
-    <AppDomain>https://edk-externalsourcecitationtool.azurewebsites.net/</AppDomain>
+    <AppDomain>https://thankful-dune-058860c1e.5.azurestaticapps.net/src/taskpane/taskpane.html</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Document"/>
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://edk-externalsourcecitationtool.azurewebsites.net/src/taskpane/taskpane.html"/>
+    <SourceLocation DefaultValue="https://thankful-dune-058860c1e.5.azurestaticapps.net/src/taskpane/taskpane.html"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
   <VersionOverrides xmlns="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="VersionOverridesV1_0">
