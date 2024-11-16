@@ -10,7 +10,7 @@
   <HighResolutionIconUrl DefaultValue="https://raw.githubusercontent.com/chalupacabra-git/MSWord-ExternalSourceCitationTool/refs/heads/master/assets/icon-64.png"/>
   <SupportUrl DefaultValue="https://github.com/chalupacabra-git/MSWord-ExternalSourceCitationTool"/>
   <AppDomains>
-    <AppDomain>https://thankful-dune-058860c1e.5.azurestaticapps.net/</AppDomain>
+    <AppDomain>https://thankful-dune-058860c1e.5.azurestaticapps.net</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Document"/>
